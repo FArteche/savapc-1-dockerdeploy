@@ -1,2 +1,2 @@
-# savapc-1-dockerdeploy
-Versão finalizada e dockerizada do savapc-1
+# SAVA-PC 2.0
+Versão corrigida e finalizada do sistema SAVA-PC, além da dockerização da aplicação
